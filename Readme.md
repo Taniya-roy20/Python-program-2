@@ -5,6 +5,7 @@ code= n = eval(input("enter value"))
 <br>
 if n>1:
 <br
+
     for i in range(2,n):
   <br>
         if n % 1 == 0:
@@ -20,6 +21,7 @@ if n>1:
 else:
 <br>
     print(n,"not a prime number")
+    
 ![Screenshot 2024-11-06 101053](https://github.com/user-attachments/assets/4e7ee977-3bf7-4ed2-b904-61f0282fcf47)
 ![Screenshot 2024-11-06 101134](https://github.com/user-attachments/assets/f2688e93-7c50-46af-8906-bd02c8a89080)
 
