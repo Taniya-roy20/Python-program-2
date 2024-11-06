@@ -69,5 +69,18 @@ while count < n:
         number += 1
 ![Screenshot 2024-11-06 102504](https://github.com/user-attachments/assets/8002c88b-2698-4760-a485-46ce72be7548)
 
+# d. Calculate sum of first 'n' natural number
+code= n = eval(input("enter value"))
+<br>
+sum=0
+<br>
+for i in range (1,n+1):
+<br>
+    sum += i
+    <br>
+print(sum)
+![Screenshot 2024-11-06 103108](https://github.com/user-attachments/assets/965ca8ee-6c4a-487d-bde0-b342238fbbe4)
+
+
 
 
